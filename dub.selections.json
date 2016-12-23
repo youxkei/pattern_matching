@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"assert_that": "0.0.4",
+		"compile-time-unittest": "0.0.3",
+		"tcenal": "0.0.3"
+	}
+}

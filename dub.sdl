@@ -1,0 +1,6 @@
+name "pattern_matching"
+description "A syntax extension for pattern matching"
+authors "youxkei"
+copyright "Copyright © 2016, youxkei"
+license "CC0"
+dependency "tcenal" version="~>0.0.3"
